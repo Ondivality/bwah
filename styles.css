@@ -1,0 +1,16 @@
+.outfit-extrabold {
+	font-family: "Outfit", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 800;
+	font-style: normal;
+}
+
+body {
+	background-color: #E0CAED;
+}
+
+.pfp {
+	width: 247px;
+	height: 247px;
+	border-radius: 123.5 60 123.5 60;
+}
