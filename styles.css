@@ -14,3 +14,10 @@ body {
 	height: 247px;
 	border-radius: 123.5 60 123.5 60;
 }
+
+.dashedHorizontalLine {
+	width: 100%;
+	height: 5px;
+	border-top: 5px dashed #50474747;
+	line-height: 80%;
+}
